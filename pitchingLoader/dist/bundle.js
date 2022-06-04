@@ -15,7 +15,7 @@
   \**********************/
 /***/ ((module) => {
 
-eval("module.exports = 'bLoader Pitching Loader->aLoader]'\n\n//# sourceURL=webpack://webpack-loader-demo/./src/data.txt?");
+eval("module.exports = '大家好，我是空智[cLoader-->bLoader->aLoader]'\n\n//# sourceURL=webpack://webpack-loader-demo/./src/data.txt?");
 
 /***/ }),
 
@@ -26,7 +26,7 @@ eval("module.exports = 'bLoader Pitching Loader->aLoader]'\n\n//# sourceURL=webp
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _data_txt__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./data.txt */ \"./src/data.txt\");\n/* harmony import */ var _data_txt__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_data_txt__WEBPACK_IMPORTED_MODULE_0__);\n\n\nconst msgElement = document.querySelector(\"#message\");\nmsgElement.innerText = (_data_txt__WEBPACK_IMPORTED_MODULE_0___default());\n\n//# sourceURL=webpack://webpack-loader-demo/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _data_txt__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./data.txt */ \"./src/data.txt\");\n/* harmony import */ var _data_txt__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_data_txt__WEBPACK_IMPORTED_MODULE_0__);\n/** we-doctor@2021 */\n\n\nconst msgElement = document.querySelector(\"#message\");\nmsgElement.innerText = (_data_txt__WEBPACK_IMPORTED_MODULE_0___default());\n\n//# sourceURL=webpack://webpack-loader-demo/./src/index.js?");
 
 /***/ })
 
